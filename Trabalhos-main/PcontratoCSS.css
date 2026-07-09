@@ -1,0 +1,29 @@
+ body {
+            background-color: #121212;
+            color: rgb(255, 255, 255);
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        input, textarea, button {
+            width: 300px;
+            padding: 8px;
+            margin-top: 5px;
+        }
+        .btn-voltar {
+            display: inline-block;
+            width: 200px;
+            padding: 12px;
+            background-color: #292929;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bolder;
+            text-align: center;
+            margin-top: 20px;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            font-size: 14px;
+            color: #888;
+        }
